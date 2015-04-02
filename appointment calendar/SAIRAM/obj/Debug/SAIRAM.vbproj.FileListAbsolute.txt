@@ -1,0 +1,12 @@
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\bin\Debug\SAIRAM.exe
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\bin\Debug\SAIRAM.pdb
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\bin\Debug\SAIRAM.xml
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\WindowsApplication1.Main.resources
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\WindowsApplication1.calender.resources
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\SAIRAM.vbproj.GenerateResource.Cache
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\SAIRAM.exe
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\SAIRAM.xml
+C:\Users\keerthana\Documents\Visual Studio 2008\Projects\SAIRAM\SAIRAM\obj\Debug\SAIRAM.pdb
